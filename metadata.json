@@ -1,0 +1,8 @@
+{
+  "name": "Aegis Foundry",
+  "description": "Enterprise-grade elite hardware marketplace and real-time inventory logistics platform. Crafted by Shahmeer Akram. Owner: Shahmeer. Author: Shahmeer Akram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
